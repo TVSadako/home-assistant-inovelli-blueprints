@@ -6,6 +6,7 @@
 
 > **Helper entity examples:** See [`examples/helpers_z2m.yaml`](examples/helpers_z2m.yaml) (Z2M) and [`examples/helpers_zha.yaml`](examples/helpers_zha.yaml) (ZHA) for ready-to-paste helper configurations.
 
+# Personal fork for attempt at generalizing the script for non-Hue bulbs and/or Hue bulbs without the Hue bridge. Use the Home Assistant scenes.
 
 # 🏠 Home Assistant Inovelli Hue Blueprints
 
